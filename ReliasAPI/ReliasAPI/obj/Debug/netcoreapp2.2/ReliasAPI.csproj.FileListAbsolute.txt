@@ -1,0 +1,14 @@
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.csproj.CoreCompileInputs.cache
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.RazorAssemblyInfo.cache
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.RazorAssemblyInfo.cs
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.AssemblyInfoInputs.cache
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.AssemblyInfo.cs
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\bin\Debug\netcoreapp2.2\ReliasAPI.deps.json
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\bin\Debug\netcoreapp2.2\ReliasAPI.runtimeconfig.json
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\bin\Debug\netcoreapp2.2\ReliasAPI.runtimeconfig.dev.json
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\bin\Debug\netcoreapp2.2\ReliasAPI.dll
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\bin\Debug\netcoreapp2.2\ReliasAPI.pdb
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.dll
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.pdb
+C:\Users\jbruening\source\repos\ReliasAPI\ReliasAPI\obj\Debug\netcoreapp2.2\ReliasAPI.csprojAssemblyReference.cache
